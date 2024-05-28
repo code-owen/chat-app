@@ -25,3 +25,5 @@ Chat app for Full Stack assignment 2
 10. Allow the browser to use your location
 11. A link will appear in the chat window
 12. Clicking the link will take you to Google maps with a pin showing your chat partners current location
+
+![Chat App](chat-app-img.png)
